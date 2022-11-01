@@ -1,7 +1,7 @@
 # 가까운 식당 표시 지도 및 알고리즘 개선
 
 ## 프로젝트 기간
-2022/7/4 ~ 현재
+2022/6/8 ~ 현재
 
 ## 사용 기술
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
